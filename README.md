@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @savitar0916
-- 👀 A newbie in Data Engineer 
-- 🌱 I’m currently learning Elastic Search & Redis
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 A newbie in Software Engineer 
+- 🌱 I’m currently learning Grpc, Elastic Search and Redis
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me . email : savitar0916@gmail.com
 
 <!---
 savitar0916/savitar0916 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
